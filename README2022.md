@@ -58,6 +58,7 @@ a second section called pseudocode that will provide the pseudocoding process fo
       would essentially read in the value of the jumpForce.txt file which can
       be easily altered once connected to the mainEntity.yVel in the Physics
       Engine.
+      
   b. In regards to the images, I created a file which had established which 
       .png of the characte Yoshi would translate to when correlated with the 
       direction of the character. However, I had difficulties trying to figure
