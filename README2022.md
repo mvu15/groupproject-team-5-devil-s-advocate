@@ -52,3 +52,16 @@ a second section called pseudocode that will provide the pseudocoding process fo
         Connect jump backward moving images to movement
      }
         
+3. Current Status:
+  a. As of right now, I was unable to successfully implement the new features. 
+      However, in regards to what I have completed I had created a class which
+      would essentially read in the value of the jumpForce.txt file which can
+      be easily altered once connected to the mainEntity.yVel in the Physics
+      Engine.
+  b. In regards to the images, I created a file which had established which 
+      .png of the characte Yoshi would translate to when correlated with the 
+      direction of the character. However, I had difficulties trying to figure
+      out how exactly to link the physics and replace the current images of 
+      Mario. However, given more time and resources, I would attempt to turn
+      the images into filenames which could then be implemented into a 
+      characters class that would link to the physics.
